@@ -1,0 +1,3 @@
+0 TL
+1 Dolar
+2 Euro
