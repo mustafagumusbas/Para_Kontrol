@@ -1,1 +1,1 @@
-Delete the "empty_file" after downloading
+After downloading, delete the "empty_file" in the images.
